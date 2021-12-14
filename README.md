@@ -1,13 +1,13 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/philip-baravi-2b2a521a2/">
   <img align="left" alt="Philip Baravi" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
 
-hi, i'm [Philip](https://philip--baravi-portfolio.herokuapp.com/), a passionate self-taught front-end web developer from Georgia, Tbilisi. My passion for Front-End lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm [Philip](https://philip--baravi-portfolio.herokuapp.com/), a passionate self-taught front-end web developer from Georgia, Tbilisi. My passion for Front-End lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
-  <img align="right" alt="GIF" src="https://github.com/PhilipBaravi/PhilipBaravi/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/PhilipBaravi/PhilipBaravi/blob/main/code.gif?raw=true" width="500" height="320" />
   
 **languages and tools:**  
 
