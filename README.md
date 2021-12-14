@@ -6,6 +6,9 @@
 
 Hi, i'm [Philip](https://philip--baravi-portfolio.herokuapp.com/), a passionate self-taught front-end web developer from Georgia, Tbilisi. My passion for Front-End lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
+I don’t like to define myself by the work I’ve done. I define myself by the work I want to do. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself, and do interesting things that matter.
+			
+
 
   <img align="right" alt="GIF" src="https://github.com/PhilipBaravi/PhilipBaravi/blob/main/code.gif?raw=true" width="500" height="320" />
   
