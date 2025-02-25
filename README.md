@@ -23,7 +23,6 @@ Hi, I'm **Philip Baravi**, a **software engineer** specializing in **front-end d
 ## 🔗 Explore More
 
 - **Portfolio**: [portfolio-fbaravi121-gmailcoms-projects.vercel.app](https://portfolio-fbaravi121-gmailcoms-projects.vercel.app/)
-- **LinkedIn**: [linkedin.com/in/philip-baravi-2b2a521a2](https://www.linkedin.com/in/philip-baravi-2b2a521a2/)
 - **Discord**: philip5198
 
 ## 📫 Contact Me
